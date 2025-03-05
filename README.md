@@ -21,3 +21,7 @@ Os dados vêm do arquivo `vehicles_us.csv` e incluem informações sobre preço,
 - Pandas
 - Plotly Express
 - Streamlit
+
+## Como rodar o projeto via Render
+
+- link: https://sprint5-s6iu.onrender.com
